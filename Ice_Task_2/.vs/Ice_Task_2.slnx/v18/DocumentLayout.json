@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22437BFD-9A37-261D-04B8-DF0C3A4D5C89}|Ice_Task_2\\Ice_Task_2.csproj|c:\\users\\tyler sydney\\desktop\\ice task 2\\ice_task_2\\ice_task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22437BFD-9A37-261D-04B8-DF0C3A4D5C89}|Ice_Task_2\\Ice_Task_2.csproj|solutionrelative:ice_task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22437BFD-9A37-261D-04B8-DF0C3A4D5C89}|Ice_Task_2\\Ice_Task_2.csproj|c:\\users\\tyler sydney\\desktop\\ice task 2\\ice_task_2\\ice_task_2\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22437BFD-9A37-261D-04B8-DF0C3A4D5C89}|Ice_Task_2\\Ice_Task_2.csproj|solutionrelative:ice_task_2\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22437BFD-9A37-261D-04B8-DF0C3A4D5C89}|Ice_Task_2\\Ice_Task_2.csproj|c:\\users\\tyler sydney\\desktop\\ice task 2\\ice_task_2\\ice_task_2\\wellnessrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22437BFD-9A37-261D-04B8-DF0C3A4D5C89}|Ice_Task_2\\Ice_Task_2.csproj|solutionrelative:ice_task_2\\wellnessrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22437BFD-9A37-261D-04B8-DF0C3A4D5C89}|Ice_Task_2\\Ice_Task_2.csproj|c:\\users\\tyler sydney\\desktop\\ice task 2\\ice_task_2\\ice_task_2\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22437BFD-9A37-261D-04B8-DF0C3A4D5C89}|Ice_Task_2\\Ice_Task_2.csproj|solutionrelative:ice_task_2\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22437BFD-9A37-261D-04B8-DF0C3A4D5C89}|Ice_Task_2\\Ice_Task_2.csproj|c:\\users\\tyler sydney\\desktop\\ice task 2\\ice_task_2\\ice_task_2\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22437BFD-9A37-261D-04B8-DF0C3A4D5C89}|Ice_Task_2\\Ice_Task_2.csproj|solutionrelative:ice_task_2\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22437BFD-9A37-261D-04B8-DF0C3A4D5C89}|Ice_Task_2\\Ice_Task_2.csproj|c:\\users\\tyler sydney\\desktop\\ice task 2\\ice_task_2\\ice_task_2\\ice_task_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22437BFD-9A37-261D-04B8-DF0C3A4D5C89}|Ice_Task_2\\Ice_Task_2.csproj|solutionrelative:ice_task_2\\ice_task_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22437BFD-9A37-261D-04B8-DF0C3A4D5C89}|Ice_Task_2\\Ice_Task_2.csproj|c:\\users\\tyler sydney\\desktop\\ice task 2\\ice_task_2\\ice_task_2\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22437BFD-9A37-261D-04B8-DF0C3A4D5C89}|Ice_Task_2\\Ice_Task_2.csproj|solutionrelative:ice_task_2\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22437BFD-9A37-261D-04B8-DF0C3A4D5C89}|Ice_Task_2\\Ice_Task_2.csproj|c:\\users\\tyler sydney\\desktop\\ice task 2\\ice_task_2\\ice_task_2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22437BFD-9A37-261D-04B8-DF0C3A4D5C89}|Ice_Task_2\\Ice_Task_2.csproj|solutionrelative:ice_task_2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\Ice_Task_2\\Program.cs",
+              "RelativeDocumentMoniker": "Ice_Task_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\Ice_Task_2\\Program.cs",
+              "RelativeToolTip": "Ice_Task_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T19:40:32.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ice_Task_2.csproj",
+              "DocumentMoniker": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\Ice_Task_2\\Ice_Task_2.csproj",
+              "RelativeDocumentMoniker": "Ice_Task_2\\Ice_Task_2.csproj",
+              "ToolTip": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\Ice_Task_2\\Ice_Task_2.csproj",
+              "RelativeToolTip": "Ice_Task_2\\Ice_Task_2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-04T19:24:45.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidInputException.cs",
+              "DocumentMoniker": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\Ice_Task_2\\InvalidInputException.cs",
+              "RelativeDocumentMoniker": "Ice_Task_2\\InvalidInputException.cs",
+              "ToolTip": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\Ice_Task_2\\InvalidInputException.cs",
+              "RelativeToolTip": "Ice_Task_2\\InvalidInputException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T19:00:12.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReport.cs",
+              "DocumentMoniker": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\Ice_Task_2\\IReport.cs",
+              "RelativeDocumentMoniker": "Ice_Task_2\\IReport.cs",
+              "ToolTip": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\Ice_Task_2\\IReport.cs",
+              "RelativeToolTip": "Ice_Task_2\\IReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:58:35.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WellnessRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\Ice_Task_2\\WellnessRecord.cs",
+              "RelativeDocumentMoniker": "Ice_Task_2\\WellnessRecord.cs",
+              "ToolTip": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\Ice_Task_2\\WellnessRecord.cs",
+              "RelativeToolTip": "Ice_Task_2\\WellnessRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:58:03.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\Ice_Task_2\\Appointment.cs",
+              "RelativeDocumentMoniker": "Ice_Task_2\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\Ice_Task_2\\Appointment.cs",
+              "RelativeToolTip": "Ice_Task_2\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:55:01.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\Ice_Task_2\\Patient.cs",
+              "RelativeDocumentMoniker": "Ice_Task_2\\Patient.cs",
+              "ToolTip": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\Ice_Task_2\\Patient.cs",
+              "RelativeToolTip": "Ice_Task_2\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:54:28.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\Ice_Task_2\\Person.cs",
+              "RelativeDocumentMoniker": "Ice_Task_2\\Person.cs",
+              "ToolTip": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 2\\Ice_Task_2\\Ice_Task_2\\Person.cs",
+              "RelativeToolTip": "Ice_Task_2\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:53:53.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
